@@ -1,0 +1,2 @@
+# funnyquotesconfig
+FunnyQuotes configuration repo
